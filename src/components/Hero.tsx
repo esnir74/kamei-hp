@@ -35,7 +35,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.8, duration: 1, ease: [0.22, 1, 0.36, 1] }}
-          className="font-serif text-4xl md:text-6xl lg:text-[5rem] text-white leading-[1.15] tracking-wide mb-7 max-w-2xl"
+          className="font-serif text-4xl md:text-6xl lg:text-[4.5rem] text-white leading-[1.15] tracking-wide mb-7 max-w-3xl"
         >
           機能と美が<br />
           棲んでいる住まい。
